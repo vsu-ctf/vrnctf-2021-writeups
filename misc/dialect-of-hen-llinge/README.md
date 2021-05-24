@@ -1,0 +1,2 @@
+Необходимо найти перевод фразы "Ayd f'haeil moen Hirjeth taenverde" со "старшей речи" на английский язык и вставить в тело флага. Пример флага: VrnCTF{good_luck_in_the_contest}.
+Флаг - VrnCTF{conquer_with_courage_rather_than_strength}.
